@@ -1,1 +1,1 @@
-# symtest2
+/etc/passwd
